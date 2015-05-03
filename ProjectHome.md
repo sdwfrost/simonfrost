@@ -1,0 +1,1 @@
+This is a collection of code generated over the years, that may (or may not!) be useful to someone.
